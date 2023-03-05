@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Giờ main đi trước
+=======
+Conflict lần 1
+>>>>>>> NvC
