@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Con 2
+=======
+Conflict lần 2
+>>>>>>> NvC
