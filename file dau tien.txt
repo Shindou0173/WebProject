@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sửa nhánh C
+=======
+Nhánh C
+>>>>>>> NvC
